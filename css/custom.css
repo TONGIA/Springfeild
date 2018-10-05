@@ -1,0 +1,112 @@
+
+
+
+body {
+
+	color: #959595;
+	height:100%;
+	}
+
+h1, h2, h3, h4, h5, h6 {
+	color: black;
+	}
+
+.feature {
+
+
+
+
+	background-image: url("images/12.jpg");
+	background-size: cover;
+	font-size: 80%;
+	}
+
+.article-intro {
+    margin-bottom: 25px;
+}
+
+.footer-blurb {
+    padding: 30px 0;
+    background-color: goldenrod;
+    color: black;
+}
+
+.footer-blurb-item {
+    padding: 30px;
+    }
+
+.small-print {
+	background-color: #fff;
+	padding: 30px 0;
+}
+
+.container1{
+	font-size:50%;
+	color: black;
+	padding-bottom: 10%;
+
+  font-weight:2000;
+  line-height: 30px;
+  margin-bottom: 25px;
+	text-align: center;
+
+}
+
+.okay{
+	margin-top: 10px;
+	padding-top: 10px;
+}
+.btn{
+	padding-right: 10px;
+	align-items: right;
+
+}
+
+.try{
+	text-align:center;
+	margin:0 auto;
+	width:60%;
+	color:#242038;
+}
+
+
+
+body::-webkit-scrollbar-track
+{
+	border: 1px solid black;
+	background-color: #F5F5F5;
+}
+
+body::-webkit-scrollbar
+{
+	width: 10px;
+	background-color: #F5F5F5;
+}
+
+body::-webkit-scrollbar-thumb
+{
+	background-color: #242038;
+}
+
+.item{
+	height:auto;9
+}
+
+.jumbotron{
+	background-image: url("../	images/12.jpg");
+	background-size: cover;
+	height:100rem;
+
+}
+.jix{
+	height:300%;
+	padding-bottom: 20%;
+
+}
+.rto{
+	font-size: 22px;
+  font-style: italic;
+  line-height: 22px;
+  margin-bottom: 25px;
+  font-family: 'Droid Serif', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
+}
